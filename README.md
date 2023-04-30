@@ -1,5 +1,5 @@
 ### Reproducing the Results
-- Unzip data and store in folder titled within workspace or change csv references in main
+- Unzip data and store in folder titled 'data' within workspace or change csv references in main
 - Requires installation of [plotly](https://plotly.com/python/getting-started/) (find Installation header) and [scikit-learn](https://scikit-learn.org/stable/install.html)
 - Open `data_analysis.py` and run the main method. Interactive graphs will open in your browser and\
 the dataframes will be printed. Optionally, uncomment `pd.set_option('display.max_rows', None)`\
