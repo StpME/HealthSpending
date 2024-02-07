@@ -9,7 +9,7 @@ within the main method to show all rows of the dataframes.
   - `future_results` to run linear regression showing how the percentage is trending
   - `plot_charts` to show the results of the data analysis
   
-CSE 163 Final Project - SP22
+CSE 163 Final Project - Sp22
 
 Marcus Jundt & Mitchell Stapelman
 
